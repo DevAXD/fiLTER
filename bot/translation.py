@@ -4,28 +4,37 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
+    START_TEXT = """
 <b>
+╔══╦══╦══╦══╦══╦══╦══╗
+╚══╩══╩══╩══╩══╩══╩══╝
 
-█░█░█ █░█░█ █▀▄▀█
-▀▄▀▄▀ ▀▄▀▄▀ █░▀░█
+  █░█░█ █░█░█ █▀▄▀█
+  ▀▄▀▄▀ ▀▄▀▄▀ █░▀░█
+
+╔══╦══╦══╦══╦══╦══╦══╗
+╚══╩══╩══╩══╩══╩══╩══╝
 
 </b>
 
+<b>Hey {}!!</b>
+
 ➥<i>⭕ Am Just A filter manager  Bot of </i>
-     @world_wide_movies 
+     <b>@world_wide_movies </b>
 
 ➥<i>⭕ Send the exact Movie name in 
      our group I'll reply the file 
      in PM if available in our channel
      thank you ❤️
 </i>
-➥<i>⭕<b> For my service : </b>
-     Just Add Me To Your Group And 
+➥<b>⭕ For my service : </b>
+  <i>Just Add Me To Your Group And 
      Channel And Connect Them And 
-     See My Powers 💫
-     For More Details Click Help Button 
-     Below..
+     See My Powers... 💫 </i>
+     ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬
+ </i>For More Details Click Help Button 
+     Below..  </i> <i>
+     ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬
 
 
 </i>"""    
