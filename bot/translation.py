@@ -9,8 +9,8 @@ class Translation(object):
 ╔══╦══╦══╦══╦══╦══╦══╗
 ╚══╩══╩══╩══╩══╩══╩══╝
 
-  █░█░█ █░█░█ █▀▄▀█
-  ▀▄▀▄▀ ▀▄▀▄▀ █░▀░█
+   █░█░█ █░█░█ █▀▄▀█
+   ▀▄▀▄▀ ▀▄▀▄▀ █░▀░█
 
 ╔══╦══╦══╦══╦══╦══╦══╗
 ╚══╩══╩══╩══╩══╩══╩══╝
@@ -20,26 +20,38 @@ class Translation(object):
 <b>Hey {}!!</b>
 
 ➥<i>⭕ Am Just A filter manager  Bot of </i>
-     <b>@world_wide_movies </b>
+        <b>@world_wide_movies </b>
 
 ➥<i>⭕ Send the exact Movie name in 
-     our group I'll reply the file 
+     our group,I'll reply the file 
      in PM if available in our channel
      thank you ❤️
 </i>
 ➥<b>⭕ For my service : </b>
-  <i>Just Add Me To Your Group And 
+      <i>Just Add Me To Your Group And 
      Channel And Connect Them And 
      See My Powers... 💫 </i>
-     ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬
- </i>For More Details Click Help Button 
-     Below..  </i> <i>
-     ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬
+▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ 
+<i>For More Details Click Help Button 
+Below..  </i> 
+▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ 
 
 
-</i>"""    
+"""    
     
     HELP_TEXT = """
+<b>
+╔══╦══╦══╦══╦══╦══╦══╗
+╚══╩══╩══╩══╩══╩══╩══╝
+
+   █░█░█ █░█░█ █▀▄▀█
+   ▀▄▀▄▀ ▀▄▀▄▀ █░▀░█
+
+╔══╦══╦══╦══╦══╦══╦══╗
+╚══╩══╩══╩══╩══╩══╩══╝
+
+</b>
+
 <b><i><u>How To Use Me!?</u></i></b>
 
 <i>
@@ -72,13 +84,22 @@ class Translation(object):
 @world_wide_movies
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
-    
+    ABOUT_TEXT = """
+<b>
+╔══╦══╦══╦══╦══╦══╦══╗
+╚══╩══╩══╩══╩══╩══╩══╝
+
+   █░█░█ █░█░█ █▀▄▀█
+   ▀▄▀▄▀ ▀▄▀▄▀ █░▀░█
+
+╔══╦══╦══╦══╦══╦══╦══╗
+╚══╩══╩══╩══╩══╩══╩══╝
+
+</b>
+
+<b>➥ Name</b> : <code> Auto Filter Bot</code>
 <b>➥ Creator</b> : <b><i><a href="https://github.com/DevAXD">DevAXD</a></i></b>
-
 <b>➥ Language</b> : <code>Python3</code>
-
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
-
 <b>➥ Source Code</b> : <i><a href="https://github.com/DevAXD/fiLTER">Click Me</a></i>
 """
