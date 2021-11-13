@@ -17,17 +17,20 @@ class Translation(object):
 </b>
 <b>Hey {}!!</b>
 
-➥<code><i>Am Just A filter manager  Bot of </i>
-  <b>@world_wide_movies </b></code>
+➥<code><i>Am Just A filter manager 
+  Bot of </i></code>
+  <b>@world_wide_movies </b>
 
 ➥<code><i>Send the exact Movie name in 
-  our group,I'll reply the file 
-  in PM if available in our channel
-  thank you ❤️</code>
+  our group,I'll reply the 
+  file in PM if available 
+  in our channel
+  
+  thank you ❤️..</code>
 
 ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ 
-<code><i>For More Details Click Help Button 
-Below..  </i> </code>
+<code><i>For More Details Click Help 
+Button Below..  </i> </code>
 ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ 
 
 
