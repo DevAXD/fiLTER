@@ -7,10 +7,11 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+Just Add Me To Your Group And Channel And Connect Them And See My Powers 🔥🔥😝
 
 For More Details Click Help Button Below..
-@world_wide_movies
+<b><i><a href="https://t.me/world_wide_movies">world wide movies</a></i></b>
+
 </i>"""    
     
     HELP_TEXT = """
