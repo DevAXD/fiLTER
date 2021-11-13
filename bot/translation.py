@@ -5,12 +5,26 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<b>
 
-Just Add Me To Your Group And Channel And Connect Them And See My Powers 🔥🔥😝
+█░█░█ █░█░█ █▀▄▀█
+▀▄▀▄▀ ▀▄▀▄▀ █░▀░█
 
-For More Details Click Help Button Below..
-<b><i><a href="https://t.me/world_wide_movies">world wide movies</a></i></b>
+</b>
+<i>
+Am Just A filter manager  Bot of
+➥ @world_wide_movies 
+➥ Send the exact Movie name in 
+   our group I'll reply the file 
+   in PM if available in our channel
+   thank you ❤️
+
+
+➥ For my service :
+   Just Add Me To Your Group And Channel And Connect Them And 
+   See My Powers 💫
+   For More Details Click Help Button Below..
+
 
 </i>"""    
     
@@ -49,7 +63,7 @@ For More Details Click Help Button Below..
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/rosebakthan">rosebakthan</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://github.com/DevAXD">DevAXD</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
