@@ -11,19 +11,21 @@ class Translation(object):
 ▀▄▀▄▀ ▀▄▀▄▀ █░▀░█
 
 </b>
-<i>
-Am Just A filter manager  Bot of
-➥ @world_wide_movies 
-➥ Send the exact Movie name in 
-   our group I'll reply the file 
-   in PM if available in our channel
-   thank you ❤️
 
+➥<i>⭕ Am Just A filter manager  Bot of </i>
+     @world_wide_movies 
 
-➥ For my service :
-   Just Add Me To Your Group And Channel And Connect Them And 
-   See My Powers 💫
-   For More Details Click Help Button Below..
+➥<i>⭕ Send the exact Movie name in 
+     our group I'll reply the file 
+     in PM if available in our channel
+     thank you ❤️
+</i>
+➥<i>⭕<b> For my service : </b>
+     Just Add Me To Your Group And 
+     Channel And Connect Them And 
+     See My Powers 💫
+     For More Details Click Help Button 
+     Below..
 
 
 </i>"""    
