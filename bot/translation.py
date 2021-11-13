@@ -14,9 +14,7 @@ class Translation(object):
 
 ╔══╦══╦══╦══╦══╦══╦══╗
 ╚══╩══╩══╩══╩══╩══╩══╝
-
 </b>
-
 <b>Hey {}!!</b>
 
 ➥<i>Am Just A filter manager  Bot of </i>
