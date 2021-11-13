@@ -68,13 +68,15 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
-<details><summary>Deploy To VPS</summary>
+<details><a>Deploy To VPS</a>
 <p>
+<pre>
 git clone https://github.com/DevAXD/fiLTER
 cd fiLTER
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
 python3 -m bot
+</pre>
 </p>
 </details>
 
