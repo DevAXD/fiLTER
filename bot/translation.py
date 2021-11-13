@@ -52,8 +52,8 @@ Button Below..  </i> </code>
 <b><i><u>How To Use Me!?</u></i></b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
+➥ Add Me To Any Group And Make Me Admin
+➥ Add Me To Your Desired Channel
 
 
 <b>Bot Commands (Works Only In Groups) :</b>
@@ -62,7 +62,7 @@ Button Below..  </i> </code>
                 OR                  - To Connect A Group With A Channel (Bot Should Be Admin With Full Previlages In Both Group And Channel)
      <code>/add @Username</code>
      
-   ➥ <code>/del chat_id</code>
+    ➥ <code>/del chat_id</code>
                 OR                  - To disconnect A Group With A Channel
      <code>/del @Username</code>
      
