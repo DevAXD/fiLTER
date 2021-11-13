@@ -1639,14 +1639,12 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/rosebakthan'),
+            InlineKeyboardButton('My Dev 👨‍🔬', url='https://github.com/DevAX'),
             InlineKeyboardButton('Source Code 🧾', url ='https://github.com/DevAXD/fiLTER')
         ],[
-            InlineKeyboardButton('Support 🛠', url='https://t.me/rosebakthan')
-        ],[
-            InlineKeyboardButton('Help ⚙', callback_data="help")
-        ],[
             InlineKeyboardButton('Subscribe 🛎', url='https://t.me/world_wide_movies')
+        ],[
+            InlineKeyboardButton('Help ⚙', callback_data="help")       
         ]]
         
     
