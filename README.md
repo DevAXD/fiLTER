@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/fridayot"><img src="https://telegra.ph/file/ddb30693b8404fcb2c6ba.jpg" width="5000"></a></p> 
+<p align="center"><a href="https://t.me/fridayot"><img src="https://telegra.ph/file/218c9c2c9f84818490118.jpg" width="5000"></a></p> 
 <h1 align="center"><b>TELEGRAM FILTER BOT </b></h1>
 
 
