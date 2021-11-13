@@ -66,9 +66,9 @@ You can deploy this bot anywhere.
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
-</details>
 
-<details><a>Deploy To VPS</a>
+
+<summary>Deploy To VPS</summary>
 <p>
 <pre>
 git clone https://github.com/DevAXD/fiLTER
@@ -78,7 +78,7 @@ pip3 install -r requirements.txt
 python3 -m bot
 </pre>
 </p>
-</details>
+
 
 
 ## Disclaimer
