@@ -1642,7 +1642,7 @@ async def callback_data(bot, update: CallbackQuery):
             InlineKeyboardButton('My Dev 👨‍🔬', url='https://github.com/DevAX'),
             InlineKeyboardButton('Source Code 🧾', url ='https://github.com/DevAXD/fiLTER')
         ],[
-            InlineKeyboardButton('Subscribe 🛎', url='https://t.me/world_wide_movies')
+            InlineKeyboardButton('Movie request here 📲', url='https://t.me/world_wide_movies')
         ],[
             InlineKeyboardButton('Help ⚙', callback_data="help")       
         ]]
@@ -1660,8 +1660,8 @@ async def callback_data(bot, update: CallbackQuery):
 
     elif query_data == "help":
         buttons = [[
-            InlineKeyboardButton('Home ⚡', callback_data='start'),
-            InlineKeyboardButton('About 🚩', callback_data='about')
+            InlineKeyboardButton('Home 🏠', callback_data='start'),
+            InlineKeyboardButton('About🔑', callback_data='about')
         ],[
             InlineKeyboardButton('Close 🔐', callback_data='close')
         ]]
