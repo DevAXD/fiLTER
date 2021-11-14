@@ -1,12 +1,12 @@
 # https://github.com/odysseusmax/animated-lamp/blob/master/bot/database/database.py
 import motor.motor_asyncio
-from info import DATABASE_NAME, DATABASE_URI
+from info import  DATABASE_URI
 
 class Database:
     
-    def __init__(self, uri, database_name):
+    def __init__(self, uri ):
         self._client = motor.motor_asyncio.AsyncIOMotorClient(uri)
-        self.db = self._client[database_name]
+        self.db = self._client["DevAXD"]
         self.col = self.db.users
         self.grp = self.db.groups
 
