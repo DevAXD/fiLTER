@@ -26,6 +26,14 @@
             "description": "Your Mongo DB URL Obtained From mongodb.com",
             "value": ""
         },
+         "ADMINS": {
+            "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "required": true
+        },
+          "IMDB": {
+            "description": "Imdb, the view of information when making True/False ",
+            "required": false
+        },
         "USER_SESSION": {
             "description": "A Pyrogram User Session String. Generated From @PyrogramStringBot",
             "value": ""
