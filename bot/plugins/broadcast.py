@@ -3,7 +3,7 @@ import datetime
 import time
 from bot import DB_URI
 from info import ADMINS
-from utils import broadcast_messages
+
 import asyncio
         
 @Client.on_message(filters.command("broadcast") & filters.user(ADMINS) & filters.reply)
