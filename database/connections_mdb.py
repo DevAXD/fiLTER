@@ -1,12 +1,12 @@
 import pymongo
 
-from info import DATABASE_URI 
+from info import DB_URI 
 
 import logging
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.ERROR)
 
-myclient = pymongo.MongoClient(DATABASE_URI)
+myclient = pymongo.MongoClient(DB_URI)
 mydb = ["DevAXD"]
 mycol = mydb['CONNECTION']   
 
